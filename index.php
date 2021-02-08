@@ -4,4 +4,5 @@ require './StrUtils.php';
 
 $myStr = new StrUtils('php is awesome !');
 
-echo $myStr->getMyStr();
+echo $myStr-> uglify();
+
